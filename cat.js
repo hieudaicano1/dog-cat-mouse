@@ -1,4 +1,5 @@
-function cat {
+function Cat() {
 	console.log("meo meo meo ok!")
 }
-module.exports = cat;
+
+module.exports = Cat;
